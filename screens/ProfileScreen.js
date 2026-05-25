@@ -2,10 +2,10 @@ import { View, Text, ScrollView, StyleSheet, Image } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
 const rows = [
-  { icon: 'card-outline', label: 'Student ID', value: 'PAU/2021/CS/0047' },
-  { icon: 'mail-outline', label: 'Email', value: 'GROUP3@students.pau.edu.ng' },
-  { icon: 'call-outline', label: 'Phone', value: '+234 810 000 0001' },
-  { icon: 'school-outline', label: 'Department', value: 'SMSS' },
+  { icon: 'card-outline', label: 'Student ID', value: 'PAU/2023/ISMs/1083' },
+  { icon: 'mail-outline', label: 'Email', value: 'GROUP1@students.pau.edu.ng' },
+  { icon: 'call-outline', label: 'Phone', value: '+234 810 444 2011' },
+  { icon: 'school-outline', label: 'Department', value: 'SMC' },
   { icon: 'location-outline', label: 'Campus', value: 'Lekki, Lagos, Nigeria' },
 ];
 
